@@ -1,3 +1,5 @@
+# KR2: Shlapakov
+
 import os
 import socket
 
